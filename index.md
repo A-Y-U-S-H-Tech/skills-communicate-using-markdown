@@ -1,1 +1,8 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` c++
+int main()
+{
+  int a,b,c;
+  c = a+b;
+  return 0;
+}
+```
