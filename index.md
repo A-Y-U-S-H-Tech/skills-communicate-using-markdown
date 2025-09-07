@@ -1,3 +1,8 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
+
+
 ``` c++
 int main()
 {
@@ -6,3 +11,4 @@ int main()
   return 0;
 }
 ```
+
